@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow import keras
 import tensorboard
 import datetime
-import AC_agent_nopos as AC_agent
+import AC_agent
 from matplotlib import pyplot as plt
 import json
 

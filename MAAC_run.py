@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow import keras
 import tensorboard
 import datetime
-import MAAC_agent_nopos as MAAC_agent
+import MAAC_agent
 from matplotlib import pyplot as plt
 import json
 
@@ -41,7 +41,7 @@ beta = 0.1
 Epsilon = 0.2
 # random seeds are fixed to reproduce the results
 map_seed = 1
-rand_seed = 7
+rand_seed = 17
 up_freq = 8
 render_freq = 32
 FL = True
