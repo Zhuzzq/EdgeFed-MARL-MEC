@@ -13,8 +13,8 @@ This repository contains a *gym* module for UAV-assisted MEC environment simulat
 ### References
 
 
-* *Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing* 
+* *Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing* [J]. IEEE Internet of Things Journal, 2021.
 
-* *An Edge Federated MARL Approach for Timeliness Maintenance in MEC Collaboration*
+* *An Edge Federated MARL Approach for Timeliness Maintenance in MEC Collaboration*[C]//2021 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2021: 1-6.
 
 <hr>
