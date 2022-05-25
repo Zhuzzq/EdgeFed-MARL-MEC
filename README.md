@@ -1,7 +1,9 @@
 ## EdgeFed H-MAAC: Edge Federated Heterogeneous Multi-agent Actor-Critic 
 
 This repository contains a *gym* module for UAV-assisted MEC environment simulation and a TensorFlow implementation of ``EdgeFed H-MAAC`` framework.
+
 Zhu Z, Wan S, Fan P, et al. [Federated Multiagent Actor–Critic Learning for Age Sensitive Mobile-Edge Computing](https://ieeexplore.ieee.org/abstract/document/9426913)[J]. IEEE Internet of Things Journal, 2021, 9(2): 1053-1067.
+
 Zhu Z, Wan S, Fan P, et al. [An Edge Federated MARL Approach for Timeliness Maintenance in MEC Collaboration](https://ieeexplore.ieee.org/abstract/document/9473729)[C]//2021 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2021: 1-6.
 
 ### Run
